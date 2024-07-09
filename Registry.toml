@@ -4,3 +4,4 @@ repo = "https://github.com/AntibodyPackages/AntibodyPackagesRegistry"
 description = "AntibodyPackagesRegistry"
 
 [packages]
+935aaf18-14c7-4785-87e9-38cf17c1e7c1 = { name = "FittingObjectiveFunctions", path = "F/FittingObjectiveFunctions" }
