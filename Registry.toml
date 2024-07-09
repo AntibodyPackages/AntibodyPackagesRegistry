@@ -1,0 +1,6 @@
+name = "AntibodyPackagesRegistry"
+uuid = "a8912519-5d54-48e3-8ca1-bd7204ec4833"
+repo = "https://github.com/AntibodyPackages/AntibodyPackagesRegistry"
+description = "AntibodyPackagesRegistry"
+
+[packages]
