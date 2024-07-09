@@ -9,3 +9,4 @@ description = "AntibodyPackagesRegistry"
 56a9bb0d-c37d-45c9-8e6c-6c1c1baae5c6 = { name = "AdaptiveDensityApproximation", path = "A/AdaptiveDensityApproximation" }
 69c61766-33fa-4661-b145-6c090ebe636b = { name = "AntibodyMethodsDoseResponse", path = "A/AntibodyMethodsDoseResponse" }
 935aaf18-14c7-4785-87e9-38cf17c1e7c1 = { name = "FittingObjectiveFunctions", path = "F/FittingObjectiveFunctions" }
+e9a1fd80-c070-45b6-a6fc-ce83faacfa81 = { name = "AntibodyMethodsDoseResponseConvenience", path = "A/AntibodyMethodsDoseResponseConvenience" }
